@@ -1,7 +1,10 @@
 # Statistics with R
 
+This lesson is under construction.
+
+
 ## To do:
-* [ ] [Add relevant topic tags to your lesson repository][cdh-topic-tags].
+* [ ] [Add relevant topic tags to your lesson repository](https://cdh.carpentries.org/the-carpentries-incubator.html#topic-tags).
 
 
 * [ ] If you are planning to write your lesson in RMarkdown,
@@ -22,7 +25,6 @@ Current maintainers of this lesson are:
 Karina Enriquez Guillén FIXME: GitHub Profile
 
 Rafael Pérez Estrada FIXME: GitHub Profile
-
 
 ## Authors
 
