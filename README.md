@@ -1,14 +1,14 @@
 # Statistics with R
 
 This lesson is under construction.
-
+https://czirion.github.io/estadistica-R/
 
 ## To do:
 * [ ] [Add relevant topic tags to your lesson repository](https://cdh.carpentries.org/the-carpentries-incubator.html#topic-tags).
 
 
 * [ ] If you are planning to write your lesson in RMarkdown,
-  [create a `main` branch and set this as the default branch in your repository settings][change-default-branch]
+  [create a `main` branch and set this as the default branch in your repository settings](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-in-your-repository/changing-the-default-branch)
 
 * [ ] Fix the CITATION file
 
