@@ -12,6 +12,11 @@ https://czirion.github.io/estadistica-R/
 
 * [ ] Fix the CITATION file
 
+## Useful material
+
+[Carpentries Lesson Example](https://carpentries.github.io/lesson-example/)
+[Carpentries Handbook](https://carpentries.github.io/curriculum-development/)
+
 ## Contributing
 
 Make a suggestion or correct and error by [raising an Issue](https://github.com/Czirion/estadistica-R/issues).
