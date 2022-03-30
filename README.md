@@ -15,6 +15,7 @@ https://czirion.github.io/estadistica-R/
 ## Useful material
 
 [Carpentries Lesson Example](https://carpentries.github.io/lesson-example/)
+
 [Carpentries Handbook](https://carpentries.github.io/curriculum-development/)
 
 ## Contributing
