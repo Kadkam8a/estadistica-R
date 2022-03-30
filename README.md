@@ -18,6 +18,8 @@ https://czirion.github.io/estadistica-R/
 
 [Carpentries Handbook](https://carpentries.github.io/curriculum-development/)
 
+[Presentación de estadística](presentacion.pdf)
+
 ## Contributing
 
 Make a suggestion or correct and error by [raising an Issue](https://github.com/Czirion/estadistica-R/issues).
