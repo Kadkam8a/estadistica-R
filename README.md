@@ -30,9 +30,9 @@ Current maintainers of this lesson are:
 
 [Claudia Zirión Martínez](https://github.com/Czirion)
 
-Karina Enriquez Guillén FIXME: GitHub Profile
+[Karina Enriquez Guillén](https://github.com/karinaeg)
 
-Rafael Pérez Estrada FIXME: GitHub Profile
+[Rafael Pérez Estrada](https://github.com/RafaPe)
 
 ## Authors
 
