@@ -9,9 +9,10 @@ objectives:
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
-FIXME
-
-RAFAEL PEREZ ESTRADA ESTE ES MI CAMBIO
+> ## `.challenge`
+>
+> An exercise.
+{: .challenge}
 
 {% include links.md %}
 
