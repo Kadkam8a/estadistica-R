@@ -11,7 +11,7 @@ keypoints:
 ---
 > ## `.challenge`
 >
-> An exercise.
+> ¿Cuál sería el pangenoma de los siguientes conjuntos?
 {: .challenge}
 
 {% include links.md %}
