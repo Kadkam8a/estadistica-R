@@ -10,7 +10,7 @@ keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
 > ## `.challenge`
->
+>![Forking Repositories]({{ page.root }}/fig/equation.png)
 > ¿Cuál sería el pangenoma de los siguientes conjuntos?
 {: .challenge}
 
