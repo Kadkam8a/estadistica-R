@@ -13,7 +13,7 @@ keypoints:
 > ¿Cuál sería el pangenoma de los siguientes conjuntos?
 >![Forking Repositories]({{ page.root }}/fig/equation.png)
 > > ## Solution
-> > {a_{2}}
+> >![Forking Repositories]({{ page.root }}/fig/a.png)
 > {: .solution}
 {: .challenge}
 >![Forking Repositories]({{ page.root }}/fig/genomasVenn1.png)
