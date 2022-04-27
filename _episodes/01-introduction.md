@@ -18,8 +18,8 @@ keypoints:
 > {: .solution}
 > 
 > What genes are in the shell?<br>
-> g) <img src="https://render.githubusercontent.com/render/math?math=H=-\sum_{i=1}^{S}p_i\:ln{p_i}">
-> a) {a_3}<br>
+> a) <img src="https://render.githubusercontent.com/render/math?math=\{a_{3}\}">
+<br>
 > b) {a_2}<br>
 > c) {a_1, a_4, a_5, a_6}<br>
 > d) {a_2, a_3}<br>
