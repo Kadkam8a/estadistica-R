@@ -11,7 +11,7 @@ keypoints:
 ---
 > ## Ejercicio `.challenge`
 > Consider the pangenome formed by the following genomes
-> > >![Forking Repositories]({{ page.root }}/fig/equation.png)
+> > ![Forking Repositories]({{ page.root }}/fig/equation.png)
 > ¿Cuál es la representación en diagramas de Venn del pangenoma anterior?
 > > ## Solution
 > >![Forking Repositories]({{ page.root }}/fig/genomasVenn1.png)
