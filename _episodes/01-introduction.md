@@ -10,12 +10,11 @@ keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
 > ## `.challenge`
-> ¿Cuál sería el pangenoma de los siguientes conjuntos?
->![Forking Repositories]({{ page.root }}/fig/equation.png)
+> ¿Cuál es la representación en diagramas de Venn del pangenoma anterior?
 > > ## Solution
-> >![Forking Repositories]({{ page.root }}/fig/a.png)
+> >![Forking Repositories]({{ page.root }}/fig/genomasVenn1.png)
 > {: .solution}
 {: .challenge}
->![Forking Repositories]({{ page.root }}/fig/genomasVenn1.png)
+
 {% include links.md %}
 
