@@ -20,12 +20,12 @@ keypoints:
 > What genes are in the shell?<br>
 > a) <img src="https://render.githubusercontent.com/render/math?math=\{a_{3}\}">
 <br>
-> b) {a_2}<br>
-> c) {a_1, a_4, a_5, a_6}<br>
-> d) {a_2, a_3}<br>
-> e) {a_1, a_3, a_4, a_5, a_6}<br>
+> b) <img src="https://render.githubusercontent.com/render/math?math=\{a_{2}\}"><br>
+> c) <img src="https://render.githubusercontent.com/render/math?math=\{a_{1}, a_{4}, a_{5}, a_{6}\}"><br>
+> d) <img src="https://render.githubusercontent.com/render/math?math=\{a_{2}, a_{3}\}"><br>
+> e) <img src="https://render.githubusercontent.com/render/math?math=\{a_{1}, a_{3}, a_{4}, a_{5}, a_{6}\}"><br>
 > > ## Solution
-> > b) {a_2}
+> > b) <img src="https://render.githubusercontent.com/render/math?math=\{a_{3}\}">
 > {: .solution}
 
 {: .challenge}
