@@ -9,6 +9,9 @@ objectives:
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
+
+## Pangenomics
+
 > ## Ejercicio `.challenge`
 > Consider the pangenome formed by the following genomes
 > ![Forking Repositories]({{ page.root }}/fig/equation.png)
