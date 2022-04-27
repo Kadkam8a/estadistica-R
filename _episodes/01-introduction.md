@@ -31,15 +31,18 @@ keypoints:
 {: .challenge}
 
 > ## Ejercicio `.challenge`
-> A classification of pangenome is being carried out, for these cases. Please fill-in-the-blank according to the given context and the type of pangenome :
+> A classification of pangenome is being carried out, for these cases. Please fill-in-the-blank according to the given context and the type of pangenome :  
+> 
 > a. The species that live in environments with rich microbial communities. This would be an example of ___________ pangenome.  
 > 
 > b. On species that live in isolated niches with limited access to genetic material exchange. This would be an example of ___________ pangenome.  
 > 
 > > ## Solution
-> >a.Open pangenome. Because these species have so many different ways of exchanging genetic material so they can continuously extend their set of genes.  
+> >a. Open pangenome.  
+> > Because these species have so many different ways of exchanging genetic material so they can continuously extend their set of genes.  
 > >
-> >b.Closed pangenome. Because of that, a small number of strains can cover the complete pangenome. 
+> >b. Closed pangenome.  
+> > Because of that, a small number of strains can cover the complete pangenome. 
 > {: .solution}
 {: .challenge}
 
