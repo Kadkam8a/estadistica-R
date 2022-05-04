@@ -131,5 +131,145 @@ y [Avoid these common alt-text mistakes](https://bighack.org/avoid-these-mistake
 
 Para evaluar la accesibilidad de una página puedes utilizar la herramienta [WAVE](https://wave.webaim.org/).
 
+## Formato de las cajas de código
+
+Para insertar una caja de código usa el siguiente código y modifícalo según el tipo de caja que necesites.
+~~~
+~~~
+Aquí va el código.
+~~~
+{: .aqui-va-el-tipo-de-caja}
+~~~
+{: .source}
+
+Para una caja sencilla utiliza: `{: .source}`
+Para una caja de *Output* utiliza: `{: .output}`
+Para una caja de *Error* utiliza: `{: .error}`
+Para que tenga el formato de sintaxis de algún lenguage de programación y el nombre del lenguage
+en la cajita usa el nombre del lenguage así:
+  `{: .laguage-html}`
+  `{: .laguage-bash}`
+  `{: .laguage-make}`
+  `{: .laguage-matlab}`
+  `{: .laguage-python}`
+  `{: .laguage-r}`
+  `{: .laguage-sql}`
+  
+## Formato para las cajas especiales
+
+Existen muchos tipo de cajas para contenido especial. Según el tipo de caja va a tener un color y un símbolo
+diferente.
+
+Para insertar una caja todo el contenido debe de tener un símbolo `>` antes de cada línea y el título
+debe tener `##`. Debe haber líneas vacías entre la línea del título y el texto, y entre el texto y las 
+cajas de código. El tipo de caja se especifica al final. Así:  
+
+~~~
+> ## Título de la caja
+>
+> texto
+> texto
+> texto
+>
+> ~~~
+> código
+> ~~~
+> {: .tipo-de-caja-de-codigo}
+{: .tipo-de-caja-especial}
+~~~
+{: .source}  
+
+Los tipos de caja son los siguientes:  
+
+> ## Notas extra o comentarios
+>
+> El código para esta caja es:
+>
+> ~~~
+> {: .callout}
+> ~~~
+> {: .source}
+{: .callout}  
+  
+> ## Lista de tareas
+>
+> El código para esta caja es:
+>
+> ~~~
+> {: .checklist}
+> ~~~
+> {: .source}
+{: .checklist}  
+
+> ## Discusiones
+>
+> El código para esta caja es:
+>
+> ~~~
+> {: .discussion}
+> ~~~
+> {: .source}
+{: .discussion}   
+
+> ## Puntos clave
+>
+> El código para esta caja es:
+>
+> ~~~
+> {: .keypoints}
+> ~~~
+> {: .source}
+{: .keypoints}  
+
+> ## Objetivos
+>
+> El código para esta caja es:
+>
+> ~~~
+> {: .objectives}
+> ~~~
+> {: .source}
+{: .objectives}  
+
+> ## Prerequisitos
+>
+> El código para esta caja es:
+>
+> ~~~
+> {: .prereq}
+> ~~~
+> {: .source}
+{: .prereq}  
+
+> ## Alguna cita interesante
+>
+> El código para esta caja es:
+>
+> ~~~
+> {: .testimonial}
+> ~~~
+> {: .source}
+{: .testimonial}  
+
+> ## Ejercicio: Título del ejercicio
+>
+> El código para esta caja es:
+>
+> ~~~
+> {: .challenge}
+> ~~~
+> {: .source}
+> 
+> > ## Solución
+> > 
+> > Esta es la solución del ejercicio.
+> > ~~~
+> > Este es el código de la solución. El código para las cajas de solución es {: .solution}
+> > ~~~
+> > {: .source}
+> {: .solution}
+{: .challenge}
+
+
 {% include links.md %}
 
