@@ -24,6 +24,8 @@ keypoints:
 - "Los ejercicios promueven la evaluación formativa y todos tienen solución."
 ---
 
+Estos lineamientos toman como base el [Curriculum Development Handbook](https://carpentries.github.io/curriculum-development/) y la [Lección ejemplo](https://carpentries.github.io/lesson-example/).
+
 ## Comenzar un episodio
 
 En la carpeta de episodios haz un nuevo archivo. El formato del nombre debe ser `EE-nombreDelEpisodio.md` (EE: Número del episodio en
@@ -244,7 +246,15 @@ Los tipos de caja son los siguientes:
 > {: .solution}
 {: .challenge}
 
-
+> ## Ejercicio 2: Título del ejercicio
+> 
+> Este es un ejercicio.
+> 
+> > ## Solución
+> > 
+> > Esta es la solución.
+> {: .solution}
+{: .challenge}
 
 {% include links.md %}
 
