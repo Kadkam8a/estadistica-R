@@ -15,10 +15,10 @@ objectives:
 - "Escribir buen texto alternativo y pies de figura."
 - "Utilizar el código adecuado para insertar cajas."
 - "Desarrollar diversos tipos de ejercicios."
-- 
+
 keypoints:
 - "Los elementos de apoyo sirven como guía para el desarrollo y el uso de los episodios. Deben ser breves y consistentes entre sí."
-- "Se debe utilizar ´##´ para los encabezados de las secciones."
+- "Se debe utilizar `##` para los encabezados de las secciones."
 - "Todas las figuras tienen texto que las describa."
 - "Existen distintos tipos de cajas para usar según su función."
 - "Los ejercicios promueven la evaluación formativa y todos tienen solución."
