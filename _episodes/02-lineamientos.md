@@ -24,6 +24,34 @@ keypoints:
 - "Los ejercicios promueven la evaluación formativa y todos tienen solución."
 ---
 
+## Comenzar un episodio
+
+En la carpeta de episodios haz un nuevo archivo. El formato del nombre debe ser `EE-nombreDelEpisodio.md` (EE: Número del episodio en
+formato de dos dígitos.)  
+En el cuerpo del archivo copia el siguiente código:
+~~~
+---
+title: "Título del episodio"
+teaching: FIXME
+exercises: FIXME
+questions:
+- "FIXME"
+
+objectives:
+- "FIXME"
+
+keypoints:
+- "FIXME"
+---
+
+Aquí va el cuerpo del episodio.
+
+{% include links.md %}
+~~~
+{:language-html}
+
+Y puedes comenzar a desarrollar tu contenido arriba del código `{% include links.md %}`.
+
 ## Elementos de apoyo
 
 Los elementos de apoyo son las preguntas, objetivos y puntos clave incluidos en los episodios.   
@@ -40,6 +68,9 @@ Guía para escribirlos:
   - En los **puntos clave** has un resumen muy breve de las partes más importantes aprendidas en el episodio.
   - Los puntos clave pueden estar escritos como breves respuestas a las preguntas.
   - Si en el episodio se enseñaron comandos o programas, menciónalos en los puntos clave.
+
+También debes indicar cuánto dura la parte de enseñanza del episodio y cuánto la parte de ejercicios. La duración debe estar de acuerdo con la
+carga de contenido.
 
 ## Formato de los encabezados y del texto
 
