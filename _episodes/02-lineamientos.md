@@ -70,7 +70,6 @@ Debes utilizar el siguiente código para insertar las figuras en el cuerpo del e
 <a href="{{ page.root }}/fig/03-07-01.png">
   <img src="{{ page.root }}/fig/03-07-01.png" alt="Aquí va el texto que describe a la imagen." />
 </a>
-<em> Figure 1. Aquí va el numero de figura y el pie de figura, que no debe de ser el mismo que el texto alternativo. <em/>
 ~~~
 {:language-html}
 
@@ -79,11 +78,26 @@ Si no queda bien el tamaño de la figura se pueden incluir los parámetro `heigh
 <a href="{{ page.root }}/fig/03-07-01.png">
   <img src="{{ page.root }}/fig/03-07-01.png" width="435" height="631" alt="Aquí va el texto que describe a la imagen." />
 </a>
-<em> Figure 1. Aquí va el numero de figura y el pie de figura, que no debe de ser el mismo que el texto alternativo. <em/>
 ~~~
 {:language-html}
 
-Las personas con discapacidades visuales utilizan lectores de pantalla, éstos son programas que leen en voz alta el contenido de una página. 
+### Accesibilidad de las imágenes
+
+Las personas con discapacidades visuales pueden utilizar lectores de pantalla, éstos son programas que leen en voz alta el
+contenido de una página. Para que las imágenes logren su objetivo cuando las utiliza alguien con un lector de pantalla deben
+de estar descritas en el texto alternativo. Éste va en el parámetro `alt=` dentro del código con el que se inserta la imagen 
+(como se ve en las cajas de código anteriores). 
+
+- Cuando la imagen es **decorativa** el texto alternativo debe de estar vacío de
+esta manera:`alt=""`, para que el lector de pantalla no lea nada, ya que en ausencia del parámetro `alt=` se leería el
+nombre del archivo, lo cual no es útil. 
+- El texto alternativo debe ser **breve** y enfocado al mensaje que se quiere dar con la imagen.
+- No debe haber **pies de figura**.
+
+Sigue las recomendaciones de las páginas [Accesible Images Best Practices](https://it.ucsf.edu/how-to/accessible-images-best-practices)
+y [Avoid these common alt-text mistakes](https://bighack.org/avoid-these-mistakes-when-writing-alt-text-descriptions-for-images/) para aprender a escribir texto alternativo útil.
+
+Para evaluar la accesibilidad de una página puedes utilizar la herramienta [WAVE](https://wave.webaim.org/).
 
 {% include links.md %}
 
