@@ -24,7 +24,9 @@ keypoints:
 - "Los ejercicios promueven la evaluación formativa y todos tienen solución."
 ---
 
-Estos lineamientos toman como base el [Curriculum Development Handbook](https://carpentries.github.io/curriculum-development/) y la [Lección ejemplo](https://carpentries.github.io/lesson-example/).
+
+Estos lineamientos toman como base el [Curriculum Development Handbook](https://carpentries.github.io/curriculum-development/)
+y la [Lección ejemplo](https://carpentries.github.io/lesson-example/).
 
 ## Comenzar un episodio
 
@@ -220,14 +222,14 @@ Los tipos de caja son los siguientes:
 
 > ## Ejercicio 1: Título del ejercicio
 > 
-> Los ejercicios deben decir Ejercicio número #: Y deben tener un título.
-> El tipo de eseta caja es: `{: .challenge}`
+> Los ejercicios deben tener número de ejercicio y título.
+> El tipo de esta caja es: `{: .challenge}`
 > 
 > > ## Solución
 > > 
 > > Esta es la solución del ejercicio.
 > > ~~~
-> > Este es el código de la solución. El tipo de las cajas de solución es {: .solution}
+> > Este es el código de la solución. El tipo de las cajas de solución es `{: .solution}`
 > > ~~~
 > > {: .source}
 > > Para anidar una caja dentro de otra como en este caso el código es así:
@@ -243,16 +245,6 @@ Los tipos de caja son los siguientes:
 > > {: .challenge}
 > > ~~~
 > > {: .source}
-> {: .solution}
-{: .challenge}
-
-> ## Ejercicio 2: Título del ejercicio
-> 
-> Este es un ejercicio.
-> 
-> > ## Solución
-> > 
-> > Esta es la solución.
 > {: .solution}
 {: .challenge}
 
