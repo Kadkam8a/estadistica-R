@@ -183,92 +183,54 @@ Los tipos de caja son los siguientes:
 
 > ## Notas extra o comentarios
 >
-> El código para esta caja es:
->
-> ~~~
-> {: .callout}
-> ~~~
-> {: .source}
+> El tipo de esta caja es: `{: .callout}`
 {: .callout}  
   
 > ## Lista de tareas
 >
-> El código para esta caja es:
->
-> ~~~
-> {: .checklist}
-> ~~~
-> {: .source}
+> El tipo de esta caja es: `{: .checklist}`
 {: .checklist}  
 
 > ## Discusiones
 >
-> El código para esta caja es:
->
-> ~~~
-> {: .discussion}
-> ~~~
-> {: .source}
+> El tipo de esta caja es: `{: .discussion}`
 {: .discussion}   
 
 > ## Puntos clave
 >
-> El código para esta caja es:
->
-> ~~~
-> {: .keypoints}
-> ~~~
-> {: .source}
+> El tipo de esta caja es: `{: .keypoints}`
 {: .keypoints}  
 
 > ## Objetivos
 >
-> El código para esta caja es:
->
-> ~~~
-> {: .objectives}
-> ~~~
-> {: .source}
+> El tipo de esta caja es: `{: .objectives}`
 {: .objectives}  
 
 > ## Prerequisitos
 >
-> El código para esta caja es:
->
-> ~~~
-> {: .prereq}
-> ~~~
-> {: .source}
+> El tipo de esta caja es: `{: .prereq}`
 {: .prereq}  
 
 > ## Alguna cita interesante
 >
-> El código para esta caja es:
->
-> ~~~
-> {: .testimonial}
-> ~~~
-> {: .source}
+> El tipo de esta caja es: `{: .testimonial}`
 {: .testimonial}  
 
-> ## Ejercicio: Título del ejercicio
->
-> El código para esta caja es:
->
-> ~~~
-> {: .challenge}
-> ~~~
-> {: .source}
+> ## Ejercicio 1: Título del ejercicio
+> 
+> Los ejercicios deben decir Ejercicio número #: Y deben tener un título.
+> El tipo de eseta caja es: `{: .challenge}`
 > 
 > > ## Solución
 > > 
 > > Esta es la solución del ejercicio.
 > > ~~~
-> > Este es el código de la solución. El código para las cajas de solución es {: .solution}
+> > Este es el código de la solución. El tipo de las cajas de solución es {: .solution}
 > > ~~~
 > > {: .source}
 > {: .solution}
 {: .challenge}
+
 
 
 {% include links.md %}
