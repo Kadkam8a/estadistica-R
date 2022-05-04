@@ -228,6 +228,19 @@ Los tipos de caja son los siguientes:
 > > Este es el código de la solución. El tipo de las cajas de solución es {: .solution}
 > > ~~~
 > > {: .source}
+> > Para anidar una caja dentro de otra como en este caso el código es así:
+> > ~~~
+> > > ## Ejercicio 1: Título del ejercicio
+> > > 
+> > > Este es un ejercicio.
+> > > 
+> > > > ## Solución
+> > > > 
+> > > > Esta es la solución.
+> > > {: .solution}
+> > {: .challenge}
+> > ~~~
+> > {: .source}
 > {: .solution}
 {: .challenge}
 
