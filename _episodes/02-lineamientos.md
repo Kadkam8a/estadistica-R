@@ -12,7 +12,7 @@ questions:
 objectives:
 - "Redactar buenas preguntas, objetivos y puntos clave."
 - "Utilizar los encabezados adecuados."
-- "Escribir buen texto alternativo y pies de figura."
+- "Escribir buen texto alternativo."
 - "Utilizar el código adecuado para insertar cajas."
 - "Desarrollar diversos tipos de ejercicios."
 
@@ -53,13 +53,14 @@ Las secciones se deben delimitar con encabezados de nivel 2, es decir con doble 
 
 Y si hay subsecciones se deben poner con el nivel 3 (`###`) y dentro de ellas se puede usar el nivel 4 (`####`).
 Es decir, que no debe haber saltos entre niveles de encabezados (p. ej. usar un nivel 4 despues de un nivel 2).  
+Siempre deja un renglón vacío antes y después de cada encabezado.
 
 ### Formato del texto
 
-Siempre deja un renglón vacío antes y después de cada encabezado.  
-Cada línea de texto debe ser de 100 caracteres máximo. Al terminar los 100 caracteres puedes pasar a una siguiente línea, 
+Cada línea de texto debe ser de 100 caracteres máximo. Al terminar los 100 caracteres puedes pasar
+a una siguiente línea, 
 y aún así se va a ver como un párrafo normal.  
-Para que se vea un salto de línea debes dejar dos espacios al final de la línea. (La línea final terminó con dos espacios)
+Para que se vea un salto de línea debes dejar dos espacios al final de la línea.
 
 ## Formato para insertar figuras
 
@@ -67,16 +68,16 @@ Todas las figuras deben de estar dentro de la carpeta `fig/` del repositorio y d
 (Número de lección-Número de episodio-Número de figura dentro del episodio.png).  
 Debes utilizar el siguiente código para insertar las figuras en el cuerpo del episodio:  
 ~~~
-<a href="{{ page.root }}/fig/03-07-01.png">
-  <img src="{{ page.root }}/fig/03-07-01.png" alt="Aquí va el texto que describe a la imagen." />
+<a href="{{ page.root }}/fig/01-01-01.png">
+  <img src="{{ page.root }}/fig/01-01-01.png" alt="Aquí va el texto que describe a la imagen." />
 </a>
 ~~~
 {:language-html}
 
 Si no queda bien el tamaño de la figura se pueden incluir los parámetro `height` y `width` así:  
 ~~~
-<a href="{{ page.root }}/fig/03-07-01.png">
-  <img src="{{ page.root }}/fig/03-07-01.png" width="435" height="631" alt="Aquí va el texto que describe a la imagen." />
+<a href="{{ page.root }}/fig/01-01-01.png">
+  <img src="{{ page.root }}/fig/01-01-01.png" width="435" height="631" alt="Aquí va el texto que describe a la imagen." />
 </a>
 ~~~
 {:language-html}
