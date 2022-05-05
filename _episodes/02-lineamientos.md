@@ -50,11 +50,10 @@ keypoints:
 
 Aquí va el cuerpo del episodio.
 
-{% include links.md %}
 ~~~
 {: .source}
 
-Y puedes comenzar a desarrollar tu contenido arriba de la línea que dice "include links".
+La última línea del episodio debe decir: `{% include links.md %}`.
 
 ## Elementos de apoyo
 
