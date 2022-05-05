@@ -53,7 +53,7 @@ Aquí va el cuerpo del episodio.
 ~~~
 {: .source}
 
-La última línea del episodio debe decir: `{% include links.md %}`.
+La última línea del episodio debe decir: `% include links.md %` encerrado en llaves `{}`. (Aquí no se puede poner encerrado en llaves porque se correría el código en lugar de mostrarlo.)
 
 ## Elementos de apoyo
 
