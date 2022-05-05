@@ -138,25 +138,25 @@ Para evaluar la accesibilidad de una página puedes utilizar la herramienta [WAV
 
 Para insertar una caja de código usa el siguiente código y modifícalo según el tipo de caja que necesites.
 ~~~
-~~~
-Aquí va el código.
-~~~
+\~~~
+  Aquí va el código.
+\~~~
 {: .aqui-va-el-tipo-de-caja}
 ~~~
 {: .source}
 
-Para una caja sencilla utiliza: `{: .source}`
-Para una caja de *Output* utiliza: `{: .output}`
-Para una caja de *Error* utiliza: `{: .error}`
+Para una caja sencilla utiliza: `{: .source}`  
+Para una caja de *Output* utiliza: `{: .output}`  
+Para una caja de *Error* utiliza: `{: .error}`  
 Para que tenga el formato de sintaxis de algún lenguage de programación y el nombre del lenguage
-en la cajita usa el nombre del lenguage así:
-  `{: .laguage-html}`
-  `{: .laguage-bash}`
-  `{: .laguage-make}`
-  `{: .laguage-matlab}`
-  `{: .laguage-python}`
-  `{: .laguage-r}`
-  `{: .laguage-sql}`
+en la cajita usa el nombre del lenguage así:  
+  `{: .laguage-html}`  
+  `{: .laguage-bash}`  
+  `{: .laguage-make}`  
+  `{: .laguage-matlab}`  
+  `{: .laguage-python}`  
+  `{: .laguage-r}`  
+  `{: .laguage-sql}`  
   
 ## Formato para las cajas especiales
 
