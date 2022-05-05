@@ -54,7 +54,7 @@ Aquí va el cuerpo del episodio.
 ~~~
 {:language-html}
 
-Y puedes comenzar a desarrollar tu contenido arriba del código `{% include links.md %}`.
+Y puedes comenzar a desarrollar tu contenido arriba de la línea que dice "include links".
 
 ## Elementos de apoyo
 
