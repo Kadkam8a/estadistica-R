@@ -52,7 +52,7 @@ Aquí va el cuerpo del episodio.
 
 {% include links.md %}
 ~~~
-{:language-html}
+{: .source}
 
 Y puedes comenzar a desarrollar tu contenido arriba de la línea que dice "include links".
 
