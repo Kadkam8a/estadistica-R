@@ -256,7 +256,7 @@ Los ejercicios deben ser una forma de **evaluación formativa**; se deben poner 
 aprendidas y deben servir para identificar malentendidos.
 Es útil empezar por diseñar el ejercicio **final** y más complejo del episodio.  
 Idealmente hay un ejercicio por **cada 10 o 15 minutos** de enseñanza. (Una sesión de dos horas necesitaría
-~ 6 ejercicios). Plane que el tiempo de enseñanza entre ejercicios sea de 12 minutos y el tiempo de
+~ 6 ejercicios). Planea que el tiempo de enseñanza entre ejercicios sea de 12 minutos y el tiempo de
 resolución del ejercicio sea de 8 minutos.
 
 ### Tipos de ejercicios
@@ -267,7 +267,7 @@ de entendimiento.
 resulte un código completo funcional. Una versión difícil es incluir líneas de código que no forman parte de
 la solución.
 - Problemas de rellenar los vacíos: Consiste en pedir que agreguen las palabras o comandos faltantes a
-un enunciado o línea de código, respectivamente. Se puede hacer más fácil agregando un banco de palabras y  
+un enunciado o línea de código, respectivamente. Se puede hacer más fácil agregando un banco de palabras y
 más difícil poniendo muchos vacíos que llenar.
 - Usar un concepto en otro contexto: Aplicar un concepto en un contexto distinto al que se enseñó puede
 requerir que el estudiante haga búsquedas en internet o en los manuales del código. Por ejemplo, se puede
