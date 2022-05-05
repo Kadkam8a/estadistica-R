@@ -137,15 +137,13 @@ Para evaluar la accesibilidad de una página puedes utilizar la herramienta [WAV
 ## Formato de las cajas de código
 
 Para insertar una caja de código usa el siguiente código y modifícalo según el tipo de caja que necesites.
-~~~
 
-  ~~~
-    Aquí va el código.
-  ~~~
-  {: .aqui-va-el-tipo-de-caja}
-
+{% raw %}
 ~~~
-{: .source}
+Aquí va el código.
+~~~
+{: .aqui-va-el-tipo-de-caja}
+{% endraw %}
 
 Para una caja sencilla utiliza: `{: .source}`  
 Para una caja de *Output* utiliza: `{: .output}`  
