@@ -37,6 +37,14 @@ ejercicios los aprendices podrán practicarlas.
 Dar **conocimiento de más** (que no está en nuestra lista de objetivos) incrementa la carga cognitiva
 y resulta distractor, por lo tanto hay que evitarlo.  
 
+> ## Los primeros pasos
+>
+> Define las habilidades que se adquirirán con la lección.
+> Desarrolla ejercicios que demuestren la habilidad.
+> Identifica qué necesitas enseñar para lograr los pasos previos.
+>
+{: .checklist}
+
 ## Comenzar un episodio
 
 En la carpeta de episodios haz un nuevo archivo. El formato del nombre debe ser `EE-nombreDelEpisodio.md` (EE: Número del episodio en
@@ -68,21 +76,30 @@ La última línea del episodio debe decir: `% include links.md %` encerrado en l
 
 Los elementos de apoyo son las preguntas, objetivos y puntos clave incluidos en los episodios.   
 
-Guía para escribirlos:  
-  - Intenta escribirlos antes de desarrollar el contenido del episodio para que te sirvan como guía en el desarrollo. Podrás ajustarlos después.
-  - Haz que las preguntas, los objetivos y los puntos clave sean consistentes entre sí.
-  
-  - Las **preguntas** deben ser preguntas que se haría el estudiante.
-  
-  - Escribe los **objetivos** en términos de lo que el estudiante va a poder *hacer* y no en lo que va a *aprender*.
-  - Un episodio debe tener entre 5 y 7 objetivos. Si tienen más considera separarlo en más episodios.
+> ## Overview
+>
+> En una caja como esta van los objetivos, las preguntas y el tiempo de enseñanza y ejercicios.
+> 
+> - Intenta escribirlos antes de desarrollar el contenido del episodio para que te sirvan como guía en el 
+> desarrollo. Podrás ajustarlos después.
+> - Haz que las preguntas, los objetivos y los puntos clave sean consistentes entre sí.
+> - Las **preguntas** deben ser preguntas que se haría el estudiante.
+> - Escribe los **objetivos** en términos de lo que el estudiante va a poder *hacer* y no en lo que va a
+> *aprender*.
+> - Un episodio debe tener entre 5 y 7 objetivos. Si tienen más considera separarlo en más episodios.
+> 
+{: .overview}
 
-  - En los **puntos clave** has un resumen muy breve de las partes más importantes aprendidas en el episodio.
-  - Los puntos clave pueden estar escritos como breves respuestas a las preguntas.
-  - Si en el episodio se enseñaron comandos o programas, menciónalos en los puntos clave.
+> ## Key points
+> 
+> En una caja como esta, al final del episodio van los puntos clave.
+> - En los **puntos clave** has un resumen muy breve de las partes más importantes aprendidas en el
+> episodio.
+> - Los puntos clave pueden estar escritos como breves respuestas a las preguntas.
+> - Si en el episodio se enseñaron comandos o programas, menciónalos en los puntos clave.
+> 
+{: .keypoints}
 
-También debes indicar cuánto dura la parte de enseñanza del episodio y cuánto la parte de ejercicios. La duración debe estar de acuerdo con la
-carga de contenido.
 
 ## Formato de los encabezados y del texto
 
@@ -94,7 +111,8 @@ Las secciones se deben delimitar con encabezados de nivel 2, es decir con doble 
 
 #### Subsecciones (Este es un encabezado nivel 4)
 
-Y si hay subsecciones se deben poner con el nivel 3 (`###`) y dentro de ellas se puede usar el nivel 4 (`####`).
+Y si hay subsecciones se deben poner con el nivel 3 (`###`) y dentro de ellas se puede usar el nivel 4
+(`####`).
 Es decir, que no debe haber saltos entre niveles de encabezados (p. ej. usar un nivel 4 despues de un nivel 2).  
 Siempre deja un renglón vacío antes y después de cada encabezado.
 
