@@ -28,6 +28,15 @@ keypoints:
 Estos lineamientos toman como base el [Curriculum Development Handbook](https://carpentries.github.io/curriculum-development/)
 y la [Lección ejemplo](https://carpentries.github.io/lesson-example/).
 
+## Planear una lección
+
+Es importante tener claros los **objetivos de la lección antes de empezar**; definir qué habilidades
+queremos que los aprendices tengan y qué conceptos queremos que conozcan al completar la lección. A partir
+de esto se identifica qué se necesita enseñar para que los aprendices adquieran estas habilidades y con qué
+ejercicios los aprendices podrán practicarlas.   
+Dar **conocimiento de más** (que no está en nuestra lista de objetivos) incrementa la carga cognitiva
+y resulta distractor, por lo tanto hay que evitarlo.  
+
 ## Comenzar un episodio
 
 En la carpeta de episodios haz un nuevo archivo. El formato del nombre debe ser `EE-nombreDelEpisodio.md` (EE: Número del episodio en
