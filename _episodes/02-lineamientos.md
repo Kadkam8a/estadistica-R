@@ -39,9 +39,9 @@ y resulta distractor, por lo tanto hay que evitarlo.
 
 > ## Los primeros pasos
 >
-> Define las habilidades que se adquirirán con la lección.
-> Desarrolla ejercicios que demuestren la habilidad.
-> Identifica qué necesitas enseñar para lograr los pasos previos.
+> - Define las habilidades que se adquirirán con la lección.  
+> - Desarrolla ejercicios que demuestren la habilidad.  
+> - Identifica qué necesitas enseñar para lograr los pasos previos.
 >
 {: .checklist}
 
@@ -80,23 +80,23 @@ Los elementos de apoyo son las preguntas, objetivos y puntos clave incluidos en 
 >
 > En una caja como esta van los objetivos, las preguntas y el tiempo de enseñanza y ejercicios.
 > 
-> - Intenta escribirlos antes de desarrollar el contenido del episodio para que te sirvan como guía en el 
+> - Intenta **escribirlos antes** de desarrollar el contenido del episodio para que te sirvan como guía en el 
 > desarrollo. Podrás ajustarlos después.
-> - Haz que las preguntas, los objetivos y los puntos clave sean consistentes entre sí.
-> - Las **preguntas** deben ser preguntas que se haría el estudiante.
-> - Escribe los **objetivos** en términos de lo que el estudiante va a poder *hacer* y no en lo que va a
+> - Haz que las preguntas, los objetivos y los puntos clave sean **consistentes** entre sí.
+> - Las preguntas deben ser **preguntas que se haría el estudiante**.
+> - Escribe los objetivos en términos de **lo que el estudiante va a poder *hacer*** y no en lo que va a
 > *aprender*.
-> - Un episodio debe tener entre 5 y 7 objetivos. Si tienen más considera separarlo en más episodios.
+> - Un episodio debe tener **entre 5 y 7** objetivos. Si tienen más considera separarlo en más episodios.
 > 
-{: .overview}
+{: .objectives}
 
 > ## Key points
 > 
 > En una caja como esta, al final del episodio van los puntos clave.
-> - En los **puntos clave** has un resumen muy breve de las partes más importantes aprendidas en el
+> - En los puntos clave has un resumen muy breve de las **partes más importantes** aprendidas en el
 > episodio.
-> - Los puntos clave pueden estar escritos como breves respuestas a las preguntas.
-> - Si en el episodio se enseñaron comandos o programas, menciónalos en los puntos clave.
+> - Los puntos clave pueden estar escritos como **breves respuestas** a las preguntas.
+> - Si en el episodio se enseñaron **comandos o programas**, menciónalos en los puntos clave.
 > 
 {: .keypoints}
 
@@ -279,7 +279,7 @@ Los tipos de caja son los siguientes:
 Los ejercicios de una lección deben mezclar ejercicios de **aplicación directa** (implementación
 de un concepto que se acaba de exponer) y ejercicios de **síntesis** (integración de habilidades
 recién adquiridas con habilidades que se vieron previamente en la lección).  
-Los ejercicios deben ser una forma de **evaluación formativa**; se deben poner el práctica las habilidades
+Los ejercicios deben ser una forma de **evaluación formativa**; se deben poner en práctica las habilidades
 aprendidas y deben servir para identificar malentendidos.
 Es útil empezar por diseñar el ejercicio **final** y más complejo del episodio.  
 Idealmente hay un ejercicio por **cada 10 o 15 minutos** de enseñanza. (Una sesión de dos horas necesitaría
