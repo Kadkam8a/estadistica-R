@@ -138,10 +138,12 @@ Para evaluar la accesibilidad de una página puedes utilizar la herramienta [WAV
 
 Para insertar una caja de código usa el siguiente código y modifícalo según el tipo de caja que necesites.
 ~~~
-\~~~
-  Aquí va el código.
-\~~~
-{: .aqui-va-el-tipo-de-caja}
+
+  ~~~
+    Aquí va el código.
+  ~~~
+  {: .aqui-va-el-tipo-de-caja}
+
 ~~~
 {: .source}
 
