@@ -50,7 +50,6 @@ keypoints:
 
 Aquí va el cuerpo del episodio.
 
-\{% include links.md %}
 ~~~
 {: .source}
 
