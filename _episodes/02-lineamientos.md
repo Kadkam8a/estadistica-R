@@ -32,15 +32,15 @@ y la [Lección ejemplo](https://carpentries.github.io/lesson-example/).
 
 Es importante tener claros los **objetivos de la lección antes de empezar**; definir qué habilidades
 queremos que los aprendices tengan y qué conceptos queremos que conozcan al completar la lección. A partir
-de esto se identifica qué se necesita enseñar para que los aprendices adquieran estas habilidades y con qué
-ejercicios los aprendices podrán practicarlas.   
+de esto ya puedes desarrollar los ejercicios que pondrán en práctica estas habilidades. Finalmente puedes identificar qué se
+necesita enseñar para que los aprendices adquieran estas habilidades y con esto desarrollar el texto y el código del episodio.  
 Dar **conocimiento de más** (que no está en nuestra lista de objetivos) incrementa la carga cognitiva
 y resulta distractor, por lo tanto hay que evitarlo.  
 
 > ## Los primeros pasos
 >
 > - Define las habilidades que se adquirirán con la lección.  
-> - Desarrolla ejercicios que demuestren la habilidad.  
+> - Desarrolla ejercicios que pongan en prática y demuestren la habilidad.  
 > - Identifica qué necesitas enseñar para lograr los pasos previos.
 >
 {: .checklist}
