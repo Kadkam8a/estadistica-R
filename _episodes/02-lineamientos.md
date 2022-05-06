@@ -25,7 +25,7 @@ keypoints:
 ---
 
 
-Estos lineamientos toman como base el [Curriculum Development Handbook](https://carpentries.github.io/curriculum-development/)
+Estos lineamientos están basados en el [Curriculum Development Handbook](https://carpentries.github.io/curriculum-development/)
 y la [Lección ejemplo](https://carpentries.github.io/lesson-example/).
 
 ## Planear una lección
@@ -40,8 +40,9 @@ y resulta distractor, por lo tanto hay que evitarlo.
 > ## Los primeros pasos
 >
 > - Define las habilidades que se adquirirán con la lección.  
-> - Desarrolla ejercicios que pongan en prática y demuestren la habilidad.  
+> - Desarrolla ejercicios que pongan en prática y demuestren las habilidades.  
 > - Identifica qué necesitas enseñar para lograr los pasos previos.
+> - Desarrolla el texto y el código de los episodios de acuerdo con lo que identificaste.
 >
 {: .checklist}
 
