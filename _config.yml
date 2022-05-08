@@ -102,3 +102,6 @@ highlighter: rouge
 
 # Remote theme
 remote_theme: carpentries/carpentries-theme
+
+#Allow math syntax
+math: yes
