@@ -22,7 +22,7 @@ keypoints:
 > c) <img src="https://render.githubusercontent.com/render/math?math=a_{1}, a_{4}, a_{5}, a_{6}"><br>
 > d) <img src="https://render.githubusercontent.com/render/math?math=a_{2}, a_{3}"><br>
 > e) <img src="https://render.githubusercontent.com/render/math?math=a_{1}, a_{3}, a_{4}, a_{5}, a_{6}"><br>
-> f) $$E(y) = \beta_0 + \beta_1 \times x_1 + \beta_2 \times x_2.$$
+> f) $E(y) = \beta_0 + \beta_1 \times x_1 + \beta_2 \times x_2.$
 > > ## Solution
 > > a) <img src="https://render.githubusercontent.com/render/math?math=a_{3}">
 > > ![Forking Repositories]({{ page.root }}/fig/genomasVenn1.png)
