@@ -42,7 +42,8 @@ y resulta distractor, por lo tanto hay que evitarlo.
 > - Define las habilidades que se adquirirán con la lección.  
 > - Desarrolla ejercicios que pongan en prática y demuestren las habilidades.  
 > - Identifica qué necesitas enseñar para lograr los pasos previos.
-> - Desarrolla el texto y el código de los episodios de acuerdo con lo que identificaste.
+> - Desarrolla el código de los episodios de acuerdo con lo que identificaste.
+> - Desarrolla el texto del episodio cuando ya tengas listo el código.
 >
 {: .checklist}
 
