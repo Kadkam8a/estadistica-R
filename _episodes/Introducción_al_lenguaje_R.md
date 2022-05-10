@@ -1,4 +1,3 @@
-
 ---
 title: "Introducción al lenguaje R"
 teaching: 0
