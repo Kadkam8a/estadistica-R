@@ -10,11 +10,11 @@ keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
 
-## Planear una lección
+## Plan de Trabajo
 
-Este laboratorio se ofrece con el propósito de capacitar al oyente para realizar inferencias básicas sobre conjuntos de datos estadísticos con la ayuda de las tecnologías de computación disponibles en la actualidad. Para este fin, se expondrán los conceptos fundamentales sobre los siguientes tópicos.
+Este laboratorio se ofrece con el propósito de capacitar al oyente para realizar inferencias básicas sobre conjuntos de datos estadísticos con la ayuda de las tecnologías de computación disponibles en la actualidad.
 
-> ## Los primeros pasos
+> ## Para este fin, se expondrán los conceptos fundamentales sobre los siguientes tópicos.
 >
 > - Introducción al lenguaje R (2 horas).
 > - Distribuciones de probabilidad que dependen de uno o más parámetros (2 horas). 
