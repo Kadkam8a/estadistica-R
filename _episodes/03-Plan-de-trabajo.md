@@ -27,3 +27,5 @@ Este laboratorio se ofrece con el propósito de capacitar al oyente para realiza
  
  
 En total el laboratorio se desarrollará en alrededor de 20 horas de trabajo en grupo.
+
+{% include links.md %}
