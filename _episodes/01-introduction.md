@@ -31,7 +31,7 @@ math: true
 {: .challenge}
 
 Esto es la expresion en LaTex
-hola $x_{4}$
+hola $E = mc^2$
 
 > ## Exercise 2. Pangenome Classification `.challenge`
 > A classification of pangenome is being carried out, for these cases. Please fill-in-the-blank according to the given context and the type of pangenome :  
