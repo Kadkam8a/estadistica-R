@@ -29,6 +29,10 @@ keypoints:
 > {: .solution}
 {: .challenge}
 
+Esto es la expresion en LaTex
+$a_{2}$
+$$E(y) = \beta_0 + \beta_1 \times x_1 + \beta_2 \times x_2.$$
+
 > ## Exercise 2. Pangenome Classification `.challenge`
 > A classification of pangenome is being carried out, for these cases. Please fill-in-the-blank according to the given context and the type of pangenome :  
 > 
