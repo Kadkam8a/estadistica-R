@@ -31,7 +31,7 @@ keypoints:
 {: .challenge}
 
 Esto es la expresion en LaTex
-$ x_2 $
+$$ x_2 $$
 
 > ## Exercise 2. Pangenome Classification `.challenge`
 > A classification of pangenome is being carried out, for these cases. Please fill-in-the-blank according to the given context and the type of pangenome :  
