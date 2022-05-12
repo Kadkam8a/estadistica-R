@@ -30,7 +30,6 @@ keypoints:
 {: .challenge}
 
 Esto es la expresion en LaTex
-$a_{2}$
 $$ E(y) = \beta_0 + \beta_1 \times x_1 + \beta_2 \times x_2 $$
 
 > ## Exercise 2. Pangenome Classification `.challenge`
