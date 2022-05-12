@@ -8,7 +8,7 @@ objectives:
 - "First learning objective. (FIXME)"
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
-math:yes
+math: true
 ---
 
 ## Pangenomics
@@ -31,7 +31,7 @@ math:yes
 {: .challenge}
 
 Esto es la expresion en LaTex
-hola $x_2$
+hola $x_4$
 
 > ## Exercise 2. Pangenome Classification `.challenge`
 > A classification of pangenome is being carried out, for these cases. Please fill-in-the-blank according to the given context and the type of pangenome :  
