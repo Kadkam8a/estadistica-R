@@ -100,7 +100,7 @@ exclude:
 highlighter: rouge
 
 #Allow syntax
-math: yes
+math: true
 
 # Remote theme
 remote_theme: carpentries/carpentries-theme
