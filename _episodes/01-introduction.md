@@ -31,7 +31,7 @@ math:yes
 {: .challenge}
 
 Esto es la expresion en LaTex
-hola $$x_23$$
+hola $x_2$
 
 > ## Exercise 2. Pangenome Classification `.challenge`
 > A classification of pangenome is being carried out, for these cases. Please fill-in-the-blank according to the given context and the type of pangenome :  
