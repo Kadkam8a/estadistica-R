@@ -99,7 +99,7 @@ exclude:
 # Turn on built-in syntax highlighting.
 highlighter: rouge
 
-#Allow math syntax
+#Allow syntax
 math: yes
 
 # Remote theme
