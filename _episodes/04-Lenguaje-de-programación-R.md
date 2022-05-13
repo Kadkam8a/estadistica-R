@@ -15,8 +15,7 @@ keypoints:
 
 El lenguaje R es sensible a las may ́usculas: no es lo mismo “variable1” que “Variable1”
 
-{% raw %}
-    ~~~
+~~~
     Para interrumpir un c ́alculo extenso, oprimir Esc.
     >q() #para salir de R
     >x<-5 #asigna el valor “5” a la variable x
@@ -25,8 +24,6 @@ El lenguaje R es sensible a las may ́usculas: no es lo mismo “variable1” qu
     >rm(list=ls()) #elimina todos los objetos definidos por el usuario
     >getwd() #muestra el directorio en uso>setwd(“/media/euba/ADATA UFD/Diplomado/Programas”) #cambia el directorio en uso
     >dir() #muestra los archivos en el directorio en uso
-    ~~~
-    {: .source}
-    {: .laguage-r}
-{% endraw %}
+~~~
+{: .language-r}
 
