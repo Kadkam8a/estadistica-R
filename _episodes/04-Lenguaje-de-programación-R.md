@@ -61,3 +61,38 @@ Y despliega lo siguiente:
     > [1] 1 2 3 4 5 6 7 8 9
 ~~~
 {: .output}
+
+~~~
+    > m <-matrix(y, 3, 3) #define la matriz de 3x3
+    > m
+~~~
+{: .language-r}
+
+~~~
+    >     [,1]    [,2]    [,3]
+      [,1]  1       2       3
+      [,2]  4       5       6
+      [,3]  7       8       9
+~~~
+{: .output}
+
+~~~
+    > u<-matrix(1, 3, 1) #define la matriz u de 3x1
+    > u
+~~~
+{: .language-r}
+
+~~~
+    >   [,1]
+     [1,] 1
+     [2,] 1
+     [3,] 1
+~~~
+{: .output}
+
+~~~
+    > mean(y) #calcula la media de las entradas en el vector y
+~~~
+{: .language-r}
+
+
