@@ -1,5 +1,5 @@
 ---
-title: "Introducción al lenguaje R"
+title: "Plan de Trabajo"
 teaching: 0
 exercises: 0
 questions:
@@ -22,7 +22,6 @@ Este laboratorio se ofrece con el propósito de capacitar al oyente para realiza
 > - El concepto de prueba de hipótesis estadística y ejemplos de las pruebas más comunes. En particular las pruebas de bondad de ajuste (6 horas).
 > - Regresión lineal simple (6 horas).
 > - Análisis de varianza (2 horas).
-> - $$ a_{2} $$
 >
 {: .checklist}
  
