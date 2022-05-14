@@ -48,4 +48,16 @@ Para ejecutar el archivo “Sumar.r” se usa el comando:
 ~~~
 {: .language-r}
 
+## Ambiente de Cálculo
+~~~
+    > y <-c(1, 2, 3, 4, 5, 6, 7, 8, 9) #define el vector y 
+    > y 
+~~~
+{: .language-r}
 
+Y despliega lo siguiente:
+
+~~~
+    > [1] 1 2 3 4 5 6 7 8 9
+~~~
+{: .output}
