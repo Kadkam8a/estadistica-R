@@ -145,4 +145,45 @@ En la siguiente tabla se reportan algunas operaciones matemáticas.
 |      floor(x)     |       Función piso       |             n:m             |     Genera n, n+1, ..., m   |
 |-------------------+--------------------------|-----------------------------|-----------------------------|
 
+### Ejemplos
 
+~~~
+    > y <- c(1:5)
+~~~
+{: .language-r}
+
+Sirve para generar el vector:
+
+~~~
+    > [1] 1 2 3 4 5
+~~~
+{: .output}
+
+~~~
+    > seq(from=1, to=13, by=3)
+~~~
+{: .language-r}
+
+Da como resultado:
+
+~~~
+    > [1] 1 4 7 10 13
+~~~
+{: .output}
+
+Si x es un vector, entonces x[i] es la i-ésima entrada de x.  Por ejemplo:
+
+~~~
+    > x <-c(4, 6, 2, 4, 8, 9, 1, 5)
+    > x[3]
+    [1] 2
+    > x[1:3]
+~~~
+{: .language-r}
+
+Da como resultado:
+
+~~~
+    > [1] 4 6 2
+~~~
+{: .output}
