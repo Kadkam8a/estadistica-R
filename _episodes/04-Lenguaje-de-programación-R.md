@@ -96,6 +96,7 @@ Y despliega lo siguiente:
 {: .language-r}
 
 En la siguiente tabla se reportan los comandos para calcular otros estadísticos básicos.
+
 |-------------------+--------------------------------------------------------|
 |      Comando      |                         Función                        |
 |-------------------+--------------------------------------------------------|
@@ -141,7 +142,7 @@ En la siguiente tabla se reportan algunas operaciones matemáticas.
 |-------------------+--------------------------|-----------------------------|-----------------------------|
 |     ceiling(x)    |      Función techo       |             % * %           |     Multiplica matrices     |
 |-------------------+--------------------------|-----------------------------|-----------------------------|
-|      floor(x)     |       Función piso       |             n:m             |     Generan, n+1, ..., m    |
+|      floor(x)     |       Función piso       |             n:m             |     Genera n, n+1, ..., m   |
 |-------------------+--------------------------|-----------------------------|-----------------------------|
 
 
