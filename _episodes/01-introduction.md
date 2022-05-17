@@ -18,11 +18,11 @@ math: true
 > ![Forking Repositories]({{ page.root }}/fig/equation.png)
 > What is the Venn diagram representation of the above pangenome?
 > What genes are in the shell?<br>
-> a) $ a_{3} $
-> b) $ a_{2} $
-> c) $ a_{4}, a_{5}, a_{6} $
-> d) $ a_{2}, a_{3} $
-> e) $ a_{1}, a_{3}, a_{4}, a_{5}, a_{6} $
+> a) $ a_{3} $ <br>
+> b) $ a_{2} $ <br>
+> c) $ a_{4}, a_{5}, a_{6} $ <br>
+> d) $ a_{2}, a_{3} $ <br>
+> e) $ a_{1}, a_{3}, a_{4}, a_{5}, a_{6} $ <br>
 <!-- > a) <img src="https://render.githubusercontent.com/render/math?math=a_{3}"><br>
 > b) <img src="https://render.githubusercontent.com/render/math?math=a_{2}"><br>
 > c) <img src="https://render.githubusercontent.com/render/math?math=a_{1}, a_{4}, a_{5}, a_{6}"><br>
