@@ -187,3 +187,30 @@ Da como resultado:
     > [1] 4 6 2
 ~~~
 {: .output}
+
+### Gráficas
+
+Especifica las dimensiones de una gráfica
+
+~~~
+    > dev.new(width=6, height=5)
+~~~
+{: .language-r}
+
+Especifica el tamano de los carácteres de la grafica: 
+
+~~~
+    > par(cex=1.5)
+~~~
+{: .language-r}
+
+ Produce la gráfica:
+ 
+ ~~~
+    > >x<-1:10
+    >y<-x ˆ 2
+    >plot(x, y)
+~~~
+{: .language-r}
+
+<img src="https://render.githubusercontent.com/render/math?math=a_{3}">
