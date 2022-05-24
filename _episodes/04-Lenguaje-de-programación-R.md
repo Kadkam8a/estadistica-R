@@ -320,3 +320,13 @@ Sirve para definir el tamaño de los caracteres de las gráficas. `xlab` y `ylab
 {: .language-r}
 
 La gráfica puede ser de uno de los tipos que se especifican en la siguiente tabla.
+
+| Letra   | Significado |
+| ------- | ----------- |
+| `p` | Puntos. |
+| `l` | Líneas. |
+| `c` | Puntos vacíos con líneas.  |
+| `o` | Puntos con líneas sobrepuestas. |
+|  `s` o `S`  |  Dos tipos de función escalón. |
+| `h` |  Tipo histograma. |
+| `n` |  Ni puntos ni líneas. |
