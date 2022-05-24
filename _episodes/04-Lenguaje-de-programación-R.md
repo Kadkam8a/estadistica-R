@@ -13,24 +13,88 @@ keypoints:
 
 ## Comandos básicos
 
-El lenguaje R es sensible a las may ́usculas: no es lo mismo “variable1” que “Variable1”
+El lenguaje R es sensible a las may ́usculas: no es lo mismo `variable1` que `Variable1`.
+
+Para interrumpir un cálculo extenso, oprimir `Esc`.
+
+Para salir de R:
 
 ~~~
-    Para interrumpir un c ́alculo extenso, oprimir Esc.
     > q() #para salir de R
-    > x<-5 #asigna el valor “5” a la variable x
-    > ls() #da la lista de las variables, u objetos, definidos por el usuario
-    > rm(“x”) #elimina la variable x
-    > rm(list=ls()) #elimina todos los objetos definidos por el usuario
-    > getwd() #muestra el directorio en uso>setwd(“/media/euba/ADATA UFD/Diplomado/Programas”) #cambia el directorio en uso
-    > dir() #muestra los archivos en el directorio en uso
-    > history(10) #nos da los últimos 10 comandos ejecutados
-    > savehistory(“borrar.txt”) #guarda la lista de comandos ejecutados en el archivo “borrar.txt”
-    > loadhistory(“borrar.txt” ) #carga el archivo “borrar.txt”
 ~~~
 {: .language-r}
 
-R puede ejecutar un conjunto de instrucciones leyéndolas desde un archivo externo. Por ejemplo, considere el archivo Sumar.r  que se muestra a continuación:
+Asigna el valor "5" a la variable x:
+
+~~~
+    > x<-5
+~~~
+{: .language-r}
+
+Da la lista de las variables, u objetos, definidos por el usuario:
+
+~~~
+    > ls()
+~~~
+{: .language-r}
+
+Elimina la variable x:
+
+~~~
+    > rm(“x”) 
+~~~
+{: .language-r}
+
+Elimina todos los objetos definidos por el usuario:
+
+~~~
+    > rm(list=ls())
+~~~
+{: .language-r}
+
+Muestra el directorio en uso:
+
+~~~
+    > getwd()
+~~~
+{: .language-r}
+
+Cambia el directorio en uso:
+
+~~~
+    >setwd("/media/euba/ADATA UFD/Diplomado/Programas")
+~~~
+{: .language-r}
+
+Muestra los archivos en el directorio en uso:
+
+~~~
+    > dir()
+~~~
+{: .language-r}
+
+Nos da los últimos 10 comandos ejecutados:
+
+~~~
+    > history(10)
+~~~
+{: .language-r}
+ 
+ Guarda la lista de comandos ejecutados en el archivo `borrar.txt`:
+ 
+ ~~~
+    > savehistory("borrar.txt") 
+~~~
+{: .language-r}
+
+Carga el archivo `borrar.txt`:
+
+~~~
+    > loadhistory("borrar.txt")
+~~~
+{: .language-r}
+
+R puede ejecutar un conjunto de instrucciones leyéndolas desde un archivo externo. Por ejemplo, considere el archivo `Sumar.r`  que se muestra a continuación:
 
 ~~~
     > #suma
@@ -41,16 +105,19 @@ R puede ejecutar un conjunto de instrucciones leyéndolas desde un archivo exter
 ~~~
 {: .language-r}
 
-Para ejecutar el archivo “Sumar.r” se usa el comando:
+Para ejecutar el archivo `Sumar.r` se usa el comando:
 
 ~~~
-    > source(“Sumar.r”)
+    > source("Sumar.r")
 ~~~
 {: .language-r}
 
 ## Ambiente de Cálculo
+
+Define el vector y:
+
 ~~~
-    > y <-c(1, 2, 3, 4, 5, 6, 7, 8, 9) #define el vector y 
+    > y <-c(1, 2, 3, 4, 5, 6, 7, 8, 9)
     > y 
 ~~~
 {: .language-r}
@@ -62,8 +129,10 @@ Y despliega lo siguiente:
 ~~~
 {: .output}
 
+Define la matriz de 3x3:
+
 ~~~
-    > m <-matrix(y, 3, 3) #define la matriz de 3x3
+    > m <-matrix(y, 3, 3) 
     > m
 ~~~
 {: .language-r}
@@ -76,8 +145,9 @@ Y despliega lo siguiente:
 ~~~
 {: .output}
 
+Define la matriz u de 3x1
 ~~~
-    > u<-matrix(1, 3, 1) #define la matriz u de 3x1
+    > u<-matrix(1, 3, 1)
     > u
 ~~~
 {: .language-r}
@@ -90,8 +160,10 @@ Y despliega lo siguiente:
 ~~~
 {: .output}
 
+Calcula la media de las entradas en el vector y:
+
 ~~~
-    > mean(y) #calcula la media de las entradas en el vector y
+    > mean(y)
 ~~~
 {: .language-r}
 
@@ -99,26 +171,26 @@ En la siguiente tabla se reportan los comandos para calcular otros estadísticos
 
 |-------------------+--------------------------------------------------------|
 |      Comando      |                         Función                        |
-|:------------------+-------------------------------------------------------:|
-|      length(y)    |            Número de entradas en el vector y           |
+|:-----------------:+:------------------------------------------------------:|
+|    `length(y)`    |            Número de entradas en el vector y           |
 |-------------------+--------------------------------------------------------|
-|       sum(y)      |                Suma de las entradas de y               |
+|      `sum(y)`     |                Suma de las entradas de y               |
 |-------------------+--------------------------------------------------------|
-|      sort(y)      |                  Ordena de menor a mayor               |
+|      `sort(y)`    |                  Ordena de menor a mayor               |
 |-------------------+--------------------------------------------------------|
-|   min(y), max(y)  |            Obtiene el mínimo y el máximo de y          |
+|  `min(y), max(y)` |            Obtiene el mínimo y el máximo de y          |
 |-------------------+--------------------------------------------------------|
-|       mean(y)     |                     Media del vector y                 |
+|     `mean(y)`     |                     Media del vector y                 |
 |-------------------+--------------------------------------------------------|
-|      median(y)    |                    Mediana del vector y                |
+|    `median(y)`    |                    Mediana del vector y                |
 |-------------------+--------------------------------------------------------|
-|        sd(y)      |             Desviación estándar del vector y           |
+|      `sd(y)`      |             Desviación estándar del vector y           |
 |-------------------+--------------------------------------------------------|
-|       var(y)      |                  Varianza del vector y                 |
+|      `var(y)`     |                  Varianza del vector y                 |
 |-------------------+--------------------------------------------------------|
-|     cor(x, y)     |                  Correlación entre x, y                |
+|     `cor(x, y)`   |                  Correlación entre x, y                |
 |-------------------+--------------------------------------------------------|
-|      cov(x, y)    |                   Covarianza entre x, y                |
+|    `cov(x, y)`    |                   Covarianza entre x, y                |
 |-------------------+--------------------------------------------------------|
 
 En la siguiente tabla se reportan algunas operaciones matemáticas.
@@ -126,23 +198,23 @@ En la siguiente tabla se reportan algunas operaciones matemáticas.
 |-------------------+--------------------------|-----------------------------|-----------------------------|
 |      Comando      |         Operación        |           Comando           |          Operación          |
 |-------------------+--------------------------|-----------------------------|-----------------------------|
-|         +         |           Suma           |           trunc(x)          |      Elimina decimales      |
+|        `+`        |           Suma           |          `trunc(x)`         |      Elimina decimales      |
 |-------------------+--------------------------|-----------------------------|-----------------------------|
-|         -         |           Resta          |      round(x, digits=0)     |          Redondea x         |
+|        `-`        |           Resta          |     `round(x, digits=0)`    |          Redondea x         |
 |-------------------+--------------------------|-----------------------------|-----------------------------|
-|         *         |      Multiplicación      |      round(x, digits=3)     |          Redondea x         |
+|        `*`        |      Multiplicación      |     `round(x, digits=3)`    |          Redondea x         |
 |-------------------+--------------------------|-----------------------------|-----------------------------|
-|         /         |          División        |            log(x)           |      Logaritmo natural      |
+|        `/`        |          División        |           `log(x)`          |      Logaritmo natural      |
 |-------------------+--------------------------|-----------------------------|-----------------------------|
-|        x%%y       |        x módulo y        |        log(x, base=2)       |         log base 2          |
+|      `x%%y`       |        x módulo y        |       `log(x, base=2)`      |         log base 2          |
 |-------------------+--------------------------|-----------------------------|-----------------------------|
-|       abs(x)      |      Valor absoluto      |           log10(x)          |    Logaritmo base 10 de x   |
+|      `abs(x)`     |      Valor absoluto      |         `log10(x)`          |    Logaritmo base 10 de x   |
 |-------------------+--------------------------|-----------------------------|-----------------------------|
-|      sqrt(x)      |       Raíz cuadrada      |            exp(x)           |       Exponencial de x      |
+|     `sqrt(x)`     |       Raíz cuadrada      |           `exp(x)`          |       Exponencial de x      |
 |-------------------+--------------------------|-----------------------------|-----------------------------|
-|     ceiling(x)    |      Función techo       |             % * %           |     Multiplica matrices     |
+|    `ceiling(x)`   |      Función techo       |           `% * %`           |     Multiplica matrices     |
 |-------------------+--------------------------|-----------------------------|-----------------------------|
-|      floor(x)     |       Función piso       |             n:m             |     Genera n, n+1, ..., m   |
+|     `floor(x)`    |       Función piso       |            `n:m`            |     Genera n, n+1, ..., m   |
 |-------------------+--------------------------|-----------------------------|-----------------------------|
 
 ### Ejemplos
