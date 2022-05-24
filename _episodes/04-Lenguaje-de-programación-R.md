@@ -283,3 +283,40 @@ Sirve para definir el tamaño de los caracteres de las gráficas. `xlab` y `ylab
     >plot(x, y, cex=2:3, main=“Cuadrado”)
 ~~~
 {: .language-r}
+
+`fg` especifica el color del marco de la gráfica.
+
+~~~
+    >plot(x, y, fg=“blue”)
+~~~
+{: .language-r}
+
+`xlim` y `ylim` especifica el rango en el eje de la x y en el eje de las y, respectivamente.
+
+~~~
+    >plot(x, y, ylim=c(-10, 110), xlim=c(-1, 12))
+~~~
+{: .language-r}
+
+`text` sirve para a ̃nadir texto a la gráfica.
+
+~~~
+    >text(4, 20, “(4, 16)”)
+~~~
+{: .language-r}
+
+`mtext` añade texto en los márgenes.
+
+~~~
+    >mtext(“aquı ”, side=4)
+~~~
+{: .language-r}
+
+`type` especifica el tipo de gráfica.
+
+~~~
+    >plot(x, y, type = “b”)
+~~~
+{: .language-r}
+
+La gráfica puede ser de uno de los tipos que se especifican en la siguiente tabla.
