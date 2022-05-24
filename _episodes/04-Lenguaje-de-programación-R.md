@@ -213,7 +213,7 @@ Especifica el tamano de los carácteres de la grafica:
 ~~~
 {: .language-r}
 
-<img src="https://render.githubusercontent.com/render/math?math=a_{3}">
+<img src="https://raw.githubusercontent.com/Czirion/estadistica-R/gh-pages/fig/grafica1.png">
 
 La gráfica anterior se puede imprimir en un archivo pdf mediante las siguientes instrucciones:
 
