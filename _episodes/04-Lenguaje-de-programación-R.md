@@ -206,11 +206,80 @@ Especifica el tamano de los carácteres de la grafica:
 
  Produce la gráfica:
  
- ~~~
-    > >x<-1:10
+~~~
+    >x<-1:10
     >y<-x ˆ 2
     >plot(x, y)
 ~~~
 {: .language-r}
 
 <img src="https://render.githubusercontent.com/render/math?math=a_{3}">
+
+La gráfica anterior se puede imprimir en un archivo pdf mediante las siguientes instrucciones:
+
+~~~
+    >pdf(“rplot.pdf ”, width=6, height=5)
+    >par(cex=1.5)
+    >plot(x, y)
+    >dev.off()
+~~~
+{: .language-r}
+
+Las funciones para graficar en R tienen varios parámetros. El comando `par` sirve para especificar de manera global los parámetros de las gráficas que se realizarán en la sesión. Por ejemplo:
+
+~~~
+    >par(cex=1.5) 
+~~~
+{: .language-r}
+
+Sirve para definir el tamaño de los caracteres de las gráficas. `xlab` y `ylab` sirven para especificar las leyendas de los ejes horizontal y vertical.
+
+~~~
+    >plot(x, y, xlab=“equis”, ylab=“cuadrado”)
+~~~
+{: .language-r}
+
+`col` y `bg` cambian el color de la gráfica y el color del fondo de la gráfica.
+
+~~~
+    >par(bg=“yellow”)
+    >plot(x, y, col=“red”)
+~~~
+{: .language-r}
+
+`pch` para seleccionar el símbolo para los puntos de la gráfica.
+
+~~~
+    >plot(x, y, pch=1:10)
+~~~
+{: .language-r}
+
+`lty` y `lwd` cambian el tipo de línea y el grueso de la línea respectivamente. “lines” sirve para a ̃nadir a la gráfica una curva a trazo continuo.
+
+~~~
+    >plot(x, y, lwd=3)
+    >lines(x, x ˆ 2, lty=5)
+~~~
+{: .language-r}
+
+`cex` tamaño del texto y puntos de la gráfica.
+
+~~~
+    >plot(x, y, cex=2:3)
+~~~
+{: .language-r}
+
+`main` es el título de la gráfica.
+
+~~~
+    >plot(x, y, main=“hola”)
+~~~
+{: .language-r}
+
+`ps` sirve para especificar el tamaño del texto dentro de la gráfica.
+
+~~~
+    >par(ps=10, cex=1.5, cex.main=2)
+    >plot(x, y, cex=2:3, main=“Cuadrado”)
+~~~
+{: .language-r}
