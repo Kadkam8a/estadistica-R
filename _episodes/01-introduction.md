@@ -53,7 +53,22 @@ hola $E = mc^2$ -->
 > > Because of that, a small number of strains can cover the complete pangenome. 
 > {: .solution}
 {: .challenge}
-
+> ## Exercise 4. Parts of the pangenome `.challenge`
+> Please fill-in-the-blank the corresponding part according to the given description:  
+> 
+> a. The ___________ is the part of the pangenome shared by every genome in the tested set.  
+> 
+> b. The ___________ is the part of the pangenome shared by the majority of the genomes in a pangenome.  
+> 
+> c. The ___________ genome are those gene families shared by a minimal subset of the genomes in the pangenome.
+> > ## Solution
+> >a. Core.  
+> >
+> >b. Shell.
+> >
+> >c. Dispensable, cloud or accessory.
+> {: .solution}
+{: .challenge}
 
 {% include links.md %}
 
